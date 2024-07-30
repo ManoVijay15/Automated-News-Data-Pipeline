@@ -1,0 +1,2615 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=latest+news",
+    "queryContext": {
+        "originalQuery": "latest news",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 54,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=latest+news"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=latest+news&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "New Yahoo News/YouGov poll: Just 28% of Americans say assassination attempt 'changed Trump for the better'",
+            "url": "https://www.msn.com/en-us/news/politics/new-yahoo-newsyougov-poll-just-28-of-americans-say-assassination-attempt-changed-trump-for-the-better/ar-BB1qzamX",
+            "description": "The results suggest that one of the most eventful periods in recent U.S. history has had little effect on Trump’s political standing.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5e28bbae-73f1-eb73-2feb-fa52ee71e02b",
+                    "name": "Republican National Convention"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e55c93dc-59a2-a404-d0ed-bfb372b79864",
+                    "name": "Tucker Carlson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9fdb4bdb-6dd4-4dd1-9159-1e8abc73ab65",
+                    "name": "Milwaukee"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Donald Trump"
+                },
+                {
+                    "name": "YouGov"
+                },
+                {
+                    "name": "Poll"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T20:10:11.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Election 2024 latest news Harris to address teachers union as she eyes Democratic nomination",
+            "url": "https://www.washingtonpost.com/elections/2024/07/25/2024-election-campaign-updates-harris-trump/",
+            "description": "The latest news on the 2022 Beijing Winter Olympics and stories on the athletes preparing for the Games.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Washington Post"
+                }
+            ],
+            "datePublished": "2024-07-25T10:30:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Liverpool transfer news live as Pedro Neto and Ait-Nouri raid planned, Dani Olmo offer, Gordon blow",
+            "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-transfer-news-live-kubo-29582434",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.t9bIECub9dk9W4BxtaRX8i&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Liverpool transfer news and rumours, including updates on Goncalo Inacio, Mohamed Salah, Baris Yılmaz, Virgil van Dijk, Jurgen Klopp, Arne Slot, Trent Alexander-Arnold, Dani Olmo and more",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a5642e81-20ab-a561-17cc-52a63926b210",
+                    "name": "Liverpool"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bfe3ce3f-d4f1-0153-057e-386c0b6bb558",
+                    "name": "Takefusa Kubo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b673b330-d4ad-bc74-a0cc-6c63786446b9",
+                    "name": "Gonçalo Inácio"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fbd8133b-7464-418f-a557-67bfb2281bbd",
+                    "name": "Mohamed Salah"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2a6b66f7-a08d-f08f-fccb-a729b40eaae7",
+                    "name": "Virgil van Dijk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/12e4e2d9-c3be-837b-c822-358dda27c155",
+                    "name": "Jürgen Klopp"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/486f7116-76a2-6b5f-b011-99872e3824a1",
+                    "name": "Arne Slot"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c254eb1c-1d63-df25-b197-aead2d714df3",
+                    "name": "Trent Alexander-Arnold"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a321e835-af0a-5732-11ec-1bb80917c2d2",
+                    "name": "Dani Olmo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e7a4d147-80ee-385a-f8ac-7debc2adbc96",
+                    "name": "Echo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c1b7e6bd-bc88-07a2-0411-c1900be45f2a",
+                    "name": "Cincinnati Reds"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/672bc136-22f9-3750-0459-2fbd2340f892",
+                    "name": "Saudi Arabia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2fa3a589-7501-3523-fa16-759cb93972e1",
+                    "name": "Galatasaray S.K."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Liverpool Echo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.lMNuYaPYFKYNaBUKNyUFHg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T12:53:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Dhaka conveys to New Delhi its displeasure over Didi's remark",
+            "url": "https://www.msn.com/en-in/news/India/dhaka-conveys-to-new-delhi-its-displeasure-over-didi-s-remark/ar-BB1qzzGi",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.WzxpQciv0rthlwLS9V0vtS&pid=News",
+                    "width": 700,
+                    "height": 380
+                }
+            },
+            "description": "Bangladesh is learnt to have officially conveyed to India its displeasure over West Bengal CM Mamata Banerjee's remark that she would allow.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1052f933-5988-4433-c3d9-2f3435647afa",
+                    "name": "Dhaka"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b474d3c7-a39a-d5ba-7426-18e00042f03e",
+                    "name": "New Delhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c5fa012f-7347-0857-872b-2a5efc180846",
+                    "name": "Bangladesh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/067d886f-4d7d-8889-c8c7-d54e2dbc1cb8",
+                    "name": "West Bengal"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "New Delhi"
+                },
+                {
+                    "name": "Dhaka"
+                },
+                {
+                    "name": "India News"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Indiatimes on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.VBzHmoY4z9NL3FbRonyM1w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T22:37:00.0000000Z"
+        },
+        {
+            "name": "The latest on the 2024 campaign",
+            "url": "https://edition.cnn.com/politics/live-news/harris-trump-election-07-25-24/index.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.MCCvd6EZXv7rouLokTpkqS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Vice President Kamala Harris kicks off her presidential campaign with a new video as former President Donald Trump says he “absolutely” wants to debate Harris. Follow live news here.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c4c637e5-f9cc-a3ed-3380-7152515e062e",
+                    "name": "CNN"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad99c262-d92e-4e88-87f7-5c66752fec36",
+                    "name": "Houston"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7ce1e366-2545-8063-de37-56de6515eb11",
+                    "name": "Benjamin Netanyahu"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/273e0477-30ed-3993-f232-f39244306805",
+                    "name": "Fox News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f8275aff-436f-88eb-b986-8cd8c2c15c6b",
+                    "name": "Presidency of Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6304580e-c803-4266-818a-971619176547",
+                    "name": "Pennsylvania"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.L448Bu0prHuvdWqWB4wMng&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T12:01:00.0000000Z",
+            "video": {
+                "name": "Live updates: Harris kicks off 2024 election campaign after Biden passes the torch in Oval Office speech | CNN Politics",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.XefbMtyKa4CYmjaZRUW4Mw&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            },
+            "category": "Politics"
+        },
+        {
+            "name": "Election 2024 live updates: Harris to deliver address to teachers as Trump sharpens attacks",
+            "url": "https://www.nbcnews.com/politics/2024-election/live-blog/-presidential-election-trump-harris-live-updates-rcna163041",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.tNllfahxZP0F_Zm3S6isgS&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Follow the latest news and live updates on the 2024 election. Learn more about how the Trump and Harris campaigns are preparing for the presidential election in November.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/eb3d2900-d8f6-7103-31a3-4a9f285c366a",
+                    "name": "2024 United States presidential election"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c78725e-4343-babf-c121-fba2213b737f",
+                    "name": "Oval Office"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/213dc8ab-7596-ca88-2cd5-d01ecc90f0d6",
+                    "name": "American Federation of Teachers"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad99c262-d92e-4e88-87f7-5c66752fec36",
+                    "name": "Houston"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9e2bf053-dd80-4646-8f26-65075e7085c0",
+                    "name": "North Carolina"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6dc540ee-82bd-5b3e-661d-2c9a1bb5a4ce",
+                    "name": "Fox and Friends"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NBC News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ighWNnrr5MMFUs8WKMme2A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T13:00:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Manchester United transfer news live pre-season tour squad confirmed and Manuel Ugarte 'demand'",
+            "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-transfer-news-live-29598943",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.0QzoswGNHv-3KwH9UmnGlC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Meanwhile, United are continuing to be linked with a wealth of midfield players as they look to add to that area of the team. Paris Saint-Germain's Manuel Ugarte continues to be constantly linked with a move to M16 while Sporting Lisbon's Morten Hjulmand has reportedly entered the equation again.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/064ce28e-ed07-a026-2f79-1b321d7548ea",
+                    "name": "Manchester United F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6e44401c-0a3f-2035-43ae-590bebcb57ae",
+                    "name": "Manchester Evening News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a61e1753-9864-40c2-8860-7a57dde78c3a",
+                    "name": "Erik ten Hag"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f6c428ba-e5b1-b002-06da-e4dc3cc9497f",
+                    "name": "Jadon Sancho"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9958ca5c-ea31-4e71-8a17-bd1e7839c723",
+                    "name": "Los Angeles"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8b3b4135-cb8e-ded8-10ce-8f130d64b863",
+                    "name": "Arsenal F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e8d7a079-fbf7-af49-090e-e4ef6239a8ea",
+                    "name": "Real Betis"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a5642e81-20ab-a561-17cc-52a63926b210",
+                    "name": "Liverpool"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/07ac54e4-3129-9b5a-3fae-9ef7034ef780",
+                    "name": "Old Trafford"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Manchester Evening News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.oxaa8-w2MDoXi5yOUu7A3w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T17:29:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "The Paris Olympics 2024: The new hunting ground for cybercriminals",
+            "url": "https://www.business-standard.com/india-news/the-paris-olympics-2024-the-new-hunting-ground-for-cybercriminals-124072501203_1.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.LutTfMVD5L3ttzMa7MRrwS&pid=News",
+                    "width": 400,
+                    "height": 400
+                }
+            },
+            "description": "Only six per cent of the analysed networks used the latest WPA3 security protocol, said the note from Kaspersky. “Like the sportspeople training for the summer of sport in France, cybercriminals have also prepared an unsavoury welcome for the millions of ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4b4dc02d-a392-7319-501d-bb5db141ad22",
+                    "name": "Pandemic"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fcd4a6b-4dcc-c91e-588b-655a55735ab3",
+                    "name": "Computer security"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0ec002e5-7890-486b-aebe-fba4dc386a7b",
+                    "name": "Wi-Fi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85584d24-2116-5b98-89f9-5714db931ac6",
+                    "name": "Paris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2aa58a2-940f-a1b7-1d2d-2775c2845ff4",
+                    "name": "Encryption"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cbe4fa9e-38d2-9ddf-9813-b89f92521b2b",
+                    "name": "Kaspersky Lab"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/64a29428-3b52-9119-5341-ce19673f36ba",
+                    "name": "Algorithm"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d046070-8553-69ca-eb56-40c8c58707bc",
+                    "name": "Wi-Fi Protected Access"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Business Standard"
+                }
+            ],
+            "datePublished": "2024-07-25T14:00:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "The Kardashians season 6: Release date speculation and latest news",
+            "url": "https://www.radiotimes.com/tv/entertainment/reality-tv/the-kardashians-season-6-release-date/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.AtrCOPp8y-XnkAGFHI4cSi&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "New episodes of The Kardashians season 5 have been released on Disney Plus, and with the finale now upon us, it's understandable there is some chatter as to when season 6 will join the streamer. Read on for everything you need to know about The Kardashians ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c4a56cfc-dcc0-c528-f179-ef9839727028",
+                    "name": "Disney+"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/068a0337-a0a0-cffa-1ca6-1e7e1926135c",
+                    "name": "Ben Winston"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/404409a8-1279-a022-8bf5-ea63c241100d",
+                    "name": "The Hollywood Reporter"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Radio Times"
+                }
+            ],
+            "datePublished": "2024-07-25T08:00:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Kellyanne Conway Slammed For Pure ‘Gaslighting’ With Latest Donald Trump Claim",
+            "url": "https://news.yahoo.com/news/kellyanne-conway-slammed-pure-gaslighting-072610757.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.V1_GjEK9_I3vFwADHDtW5i&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "GOP presidential nominee Trump “didn’t call Hillary names, he took her on for her record,” Conway suggested Wednesday on Fox News during a discussion about the personal attacks that Republicans have launched on likely Democratic 2024 presidential nominee Kamala Harris.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e60b1df8-b80c-3d04-9bda-c8a96584e65c",
+                    "name": "Kellyanne Conway"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/82b92f37-7844-b683-443c-71f0cdf6dcb4",
+                    "name": "Hillary Clinton"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/273e0477-30ed-3993-f232-f39244306805",
+                    "name": "Fox News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "YAHOO!News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.nYADEgS75l8rdCg9D-p_OQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T07:26:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Breaking News Live: SC appoints committee to reach out to farmers and govt to open Shambhu border",
+            "url": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-july-24/liveblog/111969332.cms",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4DzK43GcYBs6lMnrJPJWpy&pid=News",
+                    "width": 700,
+                    "height": 379
+                }
+            },
+            "description": "The body of Sitendra Singh, Leading Seaman, has been found today after intensive diving operations. Adm Dinesh K Tripathi, CNS and all personnel of Indian Navy extend their deepest condolences to the family of Sitendra Singh, Leading Seaman. The Indian Navy stands resolutely with the bereaved family in this hour of grief.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/becca699-9820-c027-8e14-b5840348a600",
+                    "name": "Odisha"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4a203660-5ad3-50a1-2e6c-69756b6506f1",
+                    "name": "Indian Navy"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Indiatimes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.VBzHmoY4z9NL3FbRonyM1w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T16:03:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "When Will Donald Trump Debate Kamala Harris? — Updates on ABC News, Possible Fox News Face-Offs",
+            "url": "https://www.yahoo.com/news/donald-trump-debate-kamala-harris-194456423.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.uR-gg_CAZl4YZpmBMbbpki&pid=News",
+                    "width": 700,
+                    "height": 474
+                }
+            },
+            "description": "When will America get its first presidential debate between former President Donald Trump and current Vice President Kamala Harris? Trump, the Republican nominee, faced off against President Joe Biden on June 27,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/137bb412-5a45-fc63-29e7-ee3aa5b6d093",
+                    "name": "ABC News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/273e0477-30ed-3993-f232-f39244306805",
+                    "name": "Fox News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/53c34e6f-f7f3-a9b0-880a-612e57dd8e9b",
+                    "name": "Republican Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c4c637e5-f9cc-a3ed-3380-7152515e062e",
+                    "name": "CNN"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6a48a1ba-212e-cc9e-9cab-ac6181648ad3",
+                    "name": "TVLine"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9056b8af-6184-d75b-f618-a02325f198a9",
+                    "name": "Stephen Curry"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2df994a-dac5-d411-c799-fc449ba2f276",
+                    "name": "Peacock"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/48ee2fbc-801f-34b7-7c21-902a7c9bbecf",
+                    "name": "Vince Vaughn"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d4efe51a-aac3-4d17-73d5-efe2246b696d",
+                    "name": "Bill Lawrence"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T19:44:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Everton takeover and transfer news LIVE - Lindstrom medical, O'Brien battle, Calvert-Lewin links",
+            "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-takeover-transfer-news-live-29608483",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.5ktROFtWYEFIJozm5VVjhC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Everton transfer and takeover news as the Blues edge closer to the signing of Jesper Lindstrom and continue to be linked with a move for another defender",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/08c4e442-93ae-e0fe-a73b-f76f5259a171",
+                    "name": "Everton F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5aab1a85-e269-372e-0a5f-aa276077df23",
+                    "name": "Dominic Calvert-Lewin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2110b922-1830-29cd-78e8-e85a0297da36",
+                    "name": "Jesper Lindstrøm"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3496a283-bca8-75b6-56dc-f0fd09b7b099",
+                    "name": "Echo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/754ddace-80f4-708a-0cba-a226529ff93b",
+                    "name": "S.S.C. Napoli"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8e04c30f-763f-780e-c01f-ccd70d51e4f7",
+                    "name": "Merseyside"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bd48a5b1-961c-df36-94e0-ff284105d179",
+                    "name": "Serie A"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/61554699-bbfd-16c7-51f7-364bac75290f",
+                    "name": "Eintracht Frankfurt"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/77f28672-5669-4775-a58a-b62b17779010",
+                    "name": "Republic of Ireland"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f152adba-40b2-9268-e39b-1c4e4e7e4666",
+                    "name": "Lyon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/02bde011-1e9d-3aff-8309-7d07d4031798",
+                    "name": "Premier League"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c57a2638-9afc-4422-9dd3-f64eee4a9df6",
+                    "name": "Brentford F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/414af999-cc01-19ed-e90d-da7544f21d20",
+                    "name": "West Ham"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Liverpool Echo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.lMNuYaPYFKYNaBUKNyUFHg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T09:08:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Transfer news live: Arsenal on cusp of Calafiori deal, Premier League latest, MLS updates and more",
+            "url": "https://www.nytimes.com/athletic/live-blogs/transfer-news-live-updates/O8AmlQAGlVpd/",
+            "description": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid, Barcelona and more Getafe will continue to make money from Mason Greenwood due to an unusual sell-on clause inserted into his loan move from Manchester United last summer.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.GzcmUDr41J6Qc1JEQyNTCA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T17:38:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "'Hitler had the same idea': Latest Trump accusations spur fury",
+            "url": "https://www.msn.com/en-us/news/politics/hitler-had-the-same-idea-latest-trump-accusations-spur-fury/ar-BB1qzgB5",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.m7_zqp8fi76x5Zfqq53sxi&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "A disturbing new expose from Donald Trump's nephew Fred drew comparisons between the former president's views and Nazi Dictator Adolf Hitler's wave of mass murder. Time Magazine published Wednesday an excerpt from Fred Trump III's forthcoming book \"All in the Family: The Trumps and How We Got",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/15c62a64-80ff-30f4-16c7-3bad3eee79da",
+                    "name": "Mass murder"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/541cd519-750b-9c92-8413-a537def6abbe",
+                    "name": "White House"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c78725e-4343-babf-c121-fba2213b737f",
+                    "name": "Oval Office"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c5e7e2d-4169-c219-9e38-39def85f8a52",
+                    "name": "Fred Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5e28bbae-73f1-eb73-2feb-fa52ee71e02b",
+                    "name": "Republican National Convention"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Donald Trump"
+                },
+                {
+                    "name": "Adolf Hitler"
+                },
+                {
+                    "name": "Rage"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Raw Story on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.pmKU7H0tDY47IsKTqI0U9A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T21:56:00.0000000Z"
+        },
+        {
+            "name": "Arsenal transfer news: Riccardo Calafiori plan emerges as his arrival sparks first exit",
+            "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfer-news-riccardo-calafiori-33320095",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.gj5Z2OX4kmm2zw2Dz9XIXy&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Here Mirror Football takes you through all the latest involving Mikel Arteta ’s side, who are now out in the United States. Everything has now been agreed with Bologna, who will receive a fee of £34million plus add-ons. Calafiori was left out of the ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8b3b4135-cb8e-ded8-10ce-8f130d64b863",
+                    "name": "Arsenal F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/49f29b7c-9e4d-9c42-9c72-bfde27d2fe38",
+                    "name": "Riccardo Calafiori"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f36c4093-c958-bcb0-7345-a64ab939999b",
+                    "name": "Bologna"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/36c81142-7e92-345e-7287-5f4f5e704b75",
+                    "name": "David Raya"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ebc31f5-36a7-3b3d-18b1-e6be3d21fd3e",
+                    "name": "Brentford"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a36459c4-6533-0149-85e4-bf21ec4397e1",
+                    "name": "Wrexham"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/46cbb218-c295-c257-be2c-7d8179c02488",
+                    "name": "Mikel Arteta"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Mirror"
+                }
+            ],
+            "datePublished": "2024-07-25T04:00:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Is Jannik Sinner playing at the Olympics in 2024? Latest on world no.1's status for Paris Games",
+            "url": "https://www.msn.com/en-ca/sports/tennis/is-jannik-sinner-playing-at-the-olympics-in-2024-latest-on-world-no1s-status-for-paris-games/ar-BB1qzNxo",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.OUqORCu1ULvxvC8vESznHC&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "World no.1 Jannik Sinner has been forced to withdraw from the tennis tournament at the Paris 2024 Olympics. The Italian was set to be the number one seed in the battle for a gold medal at Roland-Garros, but instead world no.2 Novak Djokovic will step up as top seed.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c714c2ab-31d2-98ae-750c-74c8581ddabd",
+                    "name": "Jannik Sinner"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/819fda72-a524-6f49-5e39-5d559e2a5969",
+                    "name": "2024 Summer Olympics"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8a420b11-c4a1-ddde-715c-97606b8ca241",
+                    "name": "Novak Djokovic"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/076cecb8-94f7-4fae-8b4b-e31768fdc150",
+                    "name": "French Open"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/33751c60-b68d-91ec-8f6d-ebd1e75ccebd",
+                    "name": "Carlos Alcaraz"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Olympic Games"
+                },
+                {
+                    "name": "Paris"
+                },
+                {
+                    "name": "Sporting News"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Sporting News on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.RuywmtySopvFFCp3mZcpew&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T01:58:48.0000000Z"
+        },
+        {
+            "name": "Brentford news: Your opinion on Bees' new away and third kit",
+            "url": "https://www.msn.com/en-us/sports/soccer/definitely-buying-fan-reaction-to-new-kits/ar-BB1qCk9G",
+            "description": "We asked you for your thoughts on Brentford's pink third kit and green away kit which were revealed earlier today. Here are some of your thoughts on the \"contrasting options\" for games on the road:",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ebc31f5-36a7-3b3d-18b1-e6be3d21fd3e",
+                    "name": "Brentford"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BBC on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.k3N4DqozNjgK376rAnFmsA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T13:27:37.0000000Z"
+        },
+        {
+            "name": "New disciplinary process after sexist message claims",
+            "url": "https://www.msn.com/en-us/news/world/new-disciplinary-process-after-sexist-message-claims/ar-BB1qB2rF",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.FRKx6tFMmUr-PIxzvwodPC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "A new disciplinary process covering senior management has been agreed, after a chief fire officer and his deputy were accused of exchanging sexist messages about female colleagues. In April, it emerged Shropshire Fire and Rescue Service's Simon Hardiman and assistant chief fire officer Adam Matthews were being investigated.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "BBC on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.k3N4DqozNjgK376rAnFmsA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T08:03:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "New York Knicks reportedly extend head coach Tom Thibodeau",
+            "url": "https://www.msn.com/en-us/sports/nba/new-york-knicks-reportedly-extend-head-coach-tom-thibodeau/ar-BB1qyZxw",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.O53wm9zD6UaIp7SpdwNaNS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The New York Knicks and head coach Tom Thibodeau have agreed to a three-year contract extension that takes the veteran coach through the 2027-28 season, per multiple reports.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ab8f2dfb-c136-38e4-ecd5-90178d024b82",
+                    "name": "Tom Thibodeau"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3cd45057-e98d-1090-c55f-a6ca6cca00cc",
+                    "name": "ESPN"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bf9ef424-f291-4182-33bb-7b963e59fd46",
+                    "name": "New York Knicks"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1ed9b926-c213-3840-d50b-a294d9342530",
+                    "name": "Chicago Bulls"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8668fbd1-992f-584e-0713-0027fe619495",
+                    "name": "Minnesota Timberwolves"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/eaa5b82a-abb6-f1b6-d5b8-4e0c57144f9e",
+                    "name": "Jalen Brunson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a6c1f016-a7f8-8e8e-7ccf-ad4fdee64192",
+                    "name": "Josh Hart"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "FOXSports on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.OWL5akqiTslw4JS_nhkiiA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T18:31:17.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Cardboard beds and a cruise ship: Olympic athletes settle in to their new digs",
+            "url": "https://www.msn.com/en-ca/sports/other/cardboard-beds-and-a-cruise-ship-olympic-athletes-settle-in-to-their-new-digs/ar-BB1qzsHz",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.bDaFenVGWQ9uoRs7A-S68y&pid=News",
+                    "width": 620,
+                    "height": 349
+                }
+            },
+            "description": "Athletes are showing off their new accommodations on social media as they arrive in Paris for the 2024 Olympic Games, scheduled to get underway Friday.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85584d24-2116-5b98-89f9-5714db931ac6",
+                    "name": "Paris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ac7dc12-3770-4a03-3289-fcfba0f7c17f",
+                    "name": "Tahiti"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/340e15d5-6b74-8497-bbfa-4c1f323f5483",
+                    "name": "French Polynesia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/48e4b151-2a8a-aac8-ffe3-ddeca941a8a1",
+                    "name": "Olympic Village"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ffbb50cc-e872-5743-e0db-d6ab8d8910c4",
+                    "name": "Teahupo'o"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/21f167d9-6189-a239-d5a2-bc64afdd869b",
+                    "name": "Tokyo bid for the 2020 Summer Olympics"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b31e9348-7142-fed2-acb3-cceb9136ec0b",
+                    "name": "Kanoa Igarashi"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Summer Olympic Games"
+                },
+                {
+                    "name": "CBC News"
+                },
+                {
+                    "name": "Settle"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CBC.ca on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.4NbuPrmIxu0JD126LE1gxQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T23:05:00.0000000Z"
+        },
+        {
+            "name": "Transfer news LIVE: Arsenal's Smith Rowe & Calafiori plans, Liverpool prep Guler bid, Man Utd swap deal",
+            "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-manutd-arsenal-33324349",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.kWFj9T4xofUdRrzmpSEdty&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "The Gunners have agreed a fee with Bologna for Riccardo Calafiori. According to reports in Italy, he will now undergo a two-stage medical ahead of linking up with his new teammates in the USA. Emile Smith Rowe is also edging towards an exit. A deal worth ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8b3b4135-cb8e-ded8-10ce-8f130d64b863",
+                    "name": "Arsenal F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0bddf0f9-2963-7fa9-7da3-e36af9a60403",
+                    "name": "Emile Smith Rowe"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a5642e81-20ab-a561-17cc-52a63926b210",
+                    "name": "Liverpool"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/064ce28e-ed07-a026-2f79-1b321d7548ea",
+                    "name": "Manchester United F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/49f29b7c-9e4d-9c42-9c72-bfde27d2fe38",
+                    "name": "Riccardo Calafiori"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/02bde011-1e9d-3aff-8309-7d07d4031798",
+                    "name": "Premier League"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8fe167ac-7cc5-ccae-ca7f-86177823ad58",
+                    "name": "Joshua Zirkzee"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d8dea608-ca10-ab4f-17b8-e56a4017a2c5",
+                    "name": "The Red Devils"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/39314303-d885-87ea-7488-7a0c16f38536",
+                    "name": "Denzel Dumfries"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f36c4093-c958-bcb0-7345-a64ab939999b",
+                    "name": "Bologna"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Mirror"
+                }
+            ],
+            "datePublished": "2024-07-25T13:07:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "The new electric car trend which could see demand soar: ‘Like a mobile phone’",
+            "url": "https://au.news.yahoo.com/the-new-electric-car-trend-which-could-see-demand-soar-like-a-mobile-phone-232622232.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Qm1pmSf00xouzdwf1IOcRS&pid=News",
+                    "width": 700,
+                    "height": 376
+                }
+            },
+            "description": "James Voortman, CEO of the Australian Automotive Dealer Association (AADA), is across all the latest motoring trends. I rang him with some trepidation, anticipating a \"WTF\" response to my mobile phone analogy.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ff2624bf-2568-0991-1f28-40e1bd9885ed",
+                    "name": "Optus"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/24d9776f-347d-0bcf-f6e2-c85a8cfa30c8",
+                    "name": "Vodafone"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo News Australia",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.a1Ggn532fLWTsNQRo6BMkw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T23:26:00.0000000Z",
+            "video": {
+                "name": "The new electric car trend which could see demand soar: ‘Like a mobile phone’",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.GOJL0bq1bteWQJRcLiSG%2BA&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            }
+        },
+        {
+            "name": "New parolee freed just a month ago arrested in fatal shooting of rookie cop",
+            "url": "https://www.msn.com/en-us/news/crime/new-parolee-freed-just-a-month-ago-arrested-in-fatal-shooting-of-rookie-cop/ar-BB1qyxUn",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.OFX2T8Dyq2XDQLVPB-5FOS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "A man paroled just a month ago has been arrested in connection with the shooting death of a young Michigan police officer.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/162411c2-b757-495d-aa81-93942fae2f7e",
+                    "name": "Michigan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85910f05-3dc5-436a-85db-fe5802c27206",
+                    "name": "Detroit"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99c41c99-cfb4-cfa1-2d1a-36da047865f0",
+                    "name": "Melvindale, Michigan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/36f82bc6-fc24-cbff-938a-3d1133e8f65d",
+                    "name": "The Detroit News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6a3486d2-0ab2-4adc-d965-7542d11331c4",
+                    "name": "Carjacking"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1f18d310-2fc1-fc0b-f602-988cf7ab4c61",
+                    "name": "Michigan Department of Corrections"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Shooting"
+                },
+                {
+                    "name": "Parole"
+                },
+                {
+                    "name": "Officer"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "New York Post on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ajvVh9V9VQOkNrdxJ1ZcWw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T18:50:00.0000000Z",
+            "video": {
+                "name": "New parolee nabbed in fatal shooting of rookie cop",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/v1/wus004/d958db74-146e-40ec-8495-4ea4a2316fc0/2e4a4820-0aa7-436e-8d04-b5d495685101_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            }
+        },
+        {
+            "name": "Eyeing new polls, Team Trump pushes flawed ‘Harris Honeymoon’ memo",
+            "url": "https://www.msn.com/en-us/news/politics/maddow-blog-eyeing-new-polls-team-trump-pushes-flawed-harris-honeymoon-memo/ar-BB1qye4e",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.6Ue3KMuLaDEZQx1ji9d1bC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "In the wake of the Republican convention, Team Trump expected to be riding high in the polls. As the former president's pollster now admits, it's not.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSNBC on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.dRKMNueJHdqYO_06JGZW5A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T14:35:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Melania Trump to tell the story of her ‘extraordinary life’ in new memoir",
+            "url": "https://www.msn.com/en-us/news/politics/melania-trump-to-tell-the-story-of-her-extraordinary-life-in-new-memoir/ar-BB1qCfCr",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.KZCWcIvNy5Uu15RVpJBH5S&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "It’s the first memoir by Trump, who has been mostly absent as her husband, former President Donald Trump, seeks to return to the White House.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6f7c7020-66da-2934-a3bb-190380654848",
+                    "name": "Melania Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/541cd519-750b-9c92-8413-a537def6abbe",
+                    "name": "White House"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/81713794-3db7-0115-59eb-c92cb83f9953",
+                    "name": "Skyhorse Publishing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f400d981-c7f0-b111-ba10-c0b8181d7bd3",
+                    "name": "Rudy Giuliani"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/47df168d-45b2-06a7-f39a-154da5b98815",
+                    "name": "Alan Dershowitz"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e045d327-0fdc-d12c-b847-d1c25c43331e",
+                    "name": "Robert F. Kennedy Jr."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b7eb0b26-18d1-2f4f-fd8d-6474ae1ae94d",
+                    "name": "Michael Cohen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b0bbe3b6-4be3-392b-30ed-95d7f4590065",
+                    "name": "Steve Bannon"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Melania Trump"
+                },
+                {
+                    "name": "New York City"
+                },
+                {
+                    "name": "United States"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "New York Post on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ajvVh9V9VQOkNrdxJ1ZcWw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T13:11:37.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "The Decameron vs Bridgerton: All the similarities as new drama drops on Netflix",
+            "url": "https://www.msn.com/en-gb/news/newsmanchester/the-decameron-vs-bridgerton-all-the-similarities-as-new-drama-drops-on-netflix/ar-BB1qB9Xg",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.1ZXsc5N9_p28lJ_tZ2dPwi&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Netflix's latest new medieval drama promises laughs and 'wine soaked ... with promises of 'wine soaked romps'. Reynolds admitted to The News Movement that it was 'very different' to film The Decameron's sex scenes, where her character Licisca has sex ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1ba662e7-d586-c56f-1131-8321089327f3",
+                    "name": "Orange Is the New Black"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/424cb54b-41a3-c86b-d8e0-3ecef5609ce8",
+                    "name": "Netflix"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/39f87b67-2f38-133f-227f-aaf98e04703e",
+                    "name": "Bridgerton"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1e7a50b8-f58b-bcfc-73dc-f8b7256d7a3f",
+                    "name": "Sex education"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4ab983d5-9ff3-9065-29aa-1d028a345064",
+                    "name": "Tanya Reynolds"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6c68ff5d-cf4d-942b-70b7-82866e3fb791",
+                    "name": "The Decameron"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d941b3c-c6e7-cd3b-d051-7221b0c3c7f0",
+                    "name": "Giovanni Boccaccio"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Netflix"
+                },
+                {
+                    "name": "Drama"
+                },
+                {
+                    "name": "Manchester Evening News"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Manchester Evening News on MSN.com"
+                }
+            ],
+            "datePublished": "2024-07-25T08:27:45.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "New Zealand Bacon and Ham Awards 2024: Upper Hutt butchery scoops top prize",
+            "url": "https://www.nzherald.co.nz/the-country/news/new-zealand-bacon-and-ham-awards-2024-upper-hutt-butchery-scoops-top-prize/DW5SHV3NBNFCPIZVS2I23SHWHI/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.PRgR1eo38_Vpf6sR2bQ6XS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "If you’re a pork eater, it’s hard to fathom that bacon - and its cold-cut cousin ham - can be judged on a scale. Isn’t it all a salty, fatty dream? No, it is not and the annual 100% New Zealand Bacon and Ham Awards has crowned its 2024 winners.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a0ba3854-dbdd-c98a-cabe-f3e969b9f5bb",
+                    "name": "Upper Hutt"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37695eaa-c67e-0087-1b34-f53b5da2be4f",
+                    "name": "Pork"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/acc9b18b-5102-95f5-accf-4b88ca8436ac",
+                    "name": "Ham"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New Zealand Herald",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.h5PSiTwmPhAF0S_Ew_4zIg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T22:18:00.0000000Z"
+        },
+        {
+            "name": "New study reveals extreme weather's impact on seniors' attendance at doctor appointments",
+            "url": "https://www.msn.com/en-us/health/other/new-study-reveals-extreme-weathers-impact-on-seniors-attendance-at-doctor-appointments/ar-BB1qzpGO",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.sgouUhMAT-mtQiTItpgExi&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "May, M.D., a professor at Drexel University College of Medicine, in a statement to Fox News Digital. The appointments were all made at 13 university outpatient clinics in Philadelphia, according to a university press release. The appointment data was ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/afae77ef-2c97-b560-7dce-39c7ccaf855e",
+                    "name": "Drexel University College of Medicine"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e8ae5967-e59c-78fc-3b15-d4611f5ddf0e",
+                    "name": "Philadelphia County, Pennsylvania"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Fox News Channel"
+                },
+                {
+                    "name": "Health"
+                },
+                {
+                    "name": "iStockphoto"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox News on MSN.com"
+                }
+            ],
+            "datePublished": "2024-07-24T22:01:20.0000000Z",
+            "category": "LifeStyle"
+        },
+        {
+            "name": "The latest Google Pixel 9 leaks point to major display upgrades for all four phones",
+            "url": "https://www.msn.com/en-us/lifestyle/shopping/the-latest-google-pixel-9-leaks-point-to-major-display-upgrades-for-all-four-phones/ar-BB1qBZl6",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.zPYmIBCSddB5lqwhN6BJ2i&pid=News",
+                    "width": 320,
+                    "height": 180
+                }
+            },
+            "description": "Not to be left out, the Pixel 9 Pro Fold – previously known as the Pixel Fold 2 – is apparently going to launch with an 8-inch main display with 1,600 nits of brightness, and a 6.24-inch cover display with 1,800 nits of brightness.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/de9961ec-2755-97e1-53fd-7393126a5d9b",
+                    "name": "HDR, Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "TechRadar on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.HUwxplx_rx0g5pzCy5_Wwg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T11:01:49.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Ukraine-Russia war: US intercepts Russian and Chinese bombers flying together near Alaska | Ukraine latest",
+            "url": "https://news.sky.com/story/ukraine-russia-war-us-intercepts-russian-and-chinese-bombers-flying-together-near-alaska-ukraine-latest-12541713",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.garp4sDp_jchk33yRQFxpy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Russia and China have held joint air patrols near Alaska, prompting US and Canadian defence command to intercept four bombers. Meanwhile, Bashar al Assad, the Syrian president, is in Russia to meet Vladimir Putin.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/31c4c7a1-54e7-4306-ac9b-f1b02e85bda5",
+                    "name": "Alaska"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad599477-9e6d-4a0e-bab5-0edf9db7115a",
+                    "name": "Ukraine"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ed4fce79-8ad4-352b-205b-e4db36c49bbe",
+                    "name": "Russia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+                    "name": "China"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ec76c458-c383-50d3-e178-a29f6935d498",
+                    "name": "Bashar al-Assad"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/60d41b9e-06ae-967b-bcc5-97ad4a13d29c",
+                    "name": "Vladimir Putin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2f042404-186f-05d7-aa3b-927a0eb47c58",
+                    "name": "Chukchi people"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c17ad0ae-08dc-1614-338e-584ac7021700",
+                    "name": "NORAD"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Sky",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Eg62H9DIbo-JYPI6GpAgGA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T09:59:00.0000000Z"
+        },
+        {
+            "name": "Jason Kelce outslugs Travis as new king of the long drive",
+            "url": "https://golf.com/news/travis-jason-kelce-celebrity-long-drive/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.44PyiWWfzSN3Epclhk7q8C&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Jason Kelce continued where Travis left off at the Korbel Celebrity Long Drive competition at the American Century Classic.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/665dc168-baf0-55f2-9a38-72b4e6575123",
+                    "name": "Jason Kelce"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/be02ecd9-36c5-3b9a-ce8e-4bc981cc600c",
+                    "name": "Lake Tahoe"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/79becd5f-b54f-49d1-ad35-daecc2732475",
+                    "name": "Golf"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8a18cdc7-97da-bac7-af5f-11fff712b546",
+                    "name": "Colt Knost"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4e917ff4-3613-42f8-bf79-9c12138e3ede",
+                    "name": "Travis Kelce"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b59d847c-ce03-05d7-6242-517f19549b8c",
+                    "name": "Aaron Rodgers"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/aac5faba-7a1b-c9cb-bc60-335af9044180",
+                    "name": "Alex Rodriguez"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/db8840a8-9393-683a-8662-536e1a239be1",
+                    "name": "Josh Allen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee997436-1bac-112a-135b-af6444d64878",
+                    "name": "Charles Barkley"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c12f6279-9d56-0ddd-da3c-11c766750112",
+                    "name": "Blake Griffin"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/806cb6b6-3b32-b565-8ee2-f970bc593551",
+                    "name": "A. J. Hawk"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8be07b8d-e803-f6e4-591e-168b77a6d356",
+                    "name": "Miles Teller"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "GOLF.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.pzGeR0KYJOdLdiePPj4NyQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T19:54:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "The Pursuit announces new campus in Mohall",
+            "url": "https://www.minotdailynews.com/news/local-news/2024/07/the-pursuit-announces-new-campus-in-mohall/",
+            "description": "The Pursuit Church has announced a mutual agreement with New Horizons Nazarene Church in Mohall and the Prairie Lakes District of the Church of the Nazarene that will transfer New Horizons’ building for the future Mohall campus of The Pursuit.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/62fcb56a-32e6-5641-9a6c-c68a0c63b44f",
+                    "name": "Mohall, North Dakota"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2066a1cb-9c16-4df0-9bbf-972781e05a43",
+                    "name": "Minot, North Dakota"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Minot Daily News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.bc8kKpL87QC39bBbIzUM5Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T12:54:00.0000000Z"
+        },
+        {
+            "name": "NFL News: Kyle Shanahan predicts which will be Bill Belichick's next team",
+            "url": "https://www.msn.com/en-us/sports/nfl/nfl-news-kyle-shanahan-predicts-which-will-be-bill-belichicks-next-team/ar-BB1qzpQ6",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.1X3r4tFJW1fpqVQjiuVDsi&pid=News",
+                    "width": 700,
+                    "height": 431
+                }
+            },
+            "description": "Kyle Shanahan hinted the possible next destination for Bill Belichick in the NFL. Kyle Shanahan suffered one of the most crushing losses in his career against Bill Belichick and the New England Patriots. He was the offensive coordinator for the Atlanta Falcons which blew that famous 28-3 lead due to an epic comeback of Tom Brady in Super Bowl 51.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e33e6585-227f-a485-2e39-50506464d59f",
+                    "name": "Kyle Shanahan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/47812fd4-162e-f994-b91b-7f694eb45759",
+                    "name": "Bill Belichick"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ff32734-2ab0-2636-a1b0-1e2f5e94a701",
+                    "name": "National Football League"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/69995e9c-2a89-f5c8-e1c3-3a62cce0061d",
+                    "name": "New England Patriots"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1875ee08-6901-0533-e035-26594031f420",
+                    "name": "Atlanta Falcons"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/02565308-152c-a875-2290-a53cee8d6b38",
+                    "name": "Tom Brady"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0cd5038c-c2de-59f4-5e35-e580b51db5e0",
+                    "name": "San Francisco 49ers"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Bill Belichick"
+                },
+                {
+                    "name": "United States"
+                },
+                {
+                    "name": "San Francisco 49ers"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "bolavip on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.qdWfj4eQ0OGeW0309M1DNw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T22:00:14.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Amid new deal, everybody agrees on one thing about the NBA on TNT show's last season",
+            "url": "https://www.marca.com/en/basketball/nba/2024/07/25/66a1a1c2268e3ed95d8b4576.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.UJNXHDp3-xbmjPuFh-ZoGy&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "The NBA's recent agreement with Prime Video for the league's media rights also means that we are going to see the NBA on TNT show for one last season. Those who have followed this",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5ada59c0-d6a8-11bb-8542-4ba618cf0c8d",
+                    "name": "National Basketball Association"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3827dfa7-504b-6fab-d581-f9a0e7de1079",
+                    "name": "TNT"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d0860d9a-ad8d-b168-f266-95c4d3a87cc0",
+                    "name": "HTTP cookie"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d058552c-fefb-79af-ac77-f9ed83509bad",
+                    "name": "Amazon Prime Video"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/346a9296-f04b-74bb-f402-5be8de0dc9dc",
+                    "name": "Shaquille O'Neal"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2e0dfe1e-3719-2f1e-edbd-025d981338fd",
+                    "name": "Ernie Johnson Jr."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/41af2950-5ae5-9c5c-f98d-6663da0fc166",
+                    "name": "Kenny Smith"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee997436-1bac-112a-135b-af6444d64878",
+                    "name": "Charles Barkley"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MARCA",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ToEIHob9aIfZAX_hYYZPtA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T00:14:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Wells Fargo Center will need a new name soon: Here's why",
+            "url": "https://www.fox29.com/news/wells-fargo-center-will-need-new-name-soon-heres-why",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.09XAAUGZwGy60jqK02n9eC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Wells Fargo announced on Wednesday that they will not renew their naming rights for the South Philly arena when its contract runs out in August 2025.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ad1367e3-2109-b5b7-beb9-c829f8837f2d",
+                    "name": "Wells Fargo Center"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/020d4bbf-2971-4236-b87d-c3ec1d7f851c",
+                    "name": "Philadelphia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c06b930f-e0c6-9734-597f-84b924f17d8b",
+                    "name": "Philadelphia Flyers"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b5293f9d-d9ab-27b1-c8d1-2f9531ad0bed",
+                    "name": "Philadelphia 76ers"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f6a6f872-ee91-c98f-e44a-631c007464f3",
+                    "name": "Wells Fargo"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/37181124-e096-403d-a455-576a61b83525",
+                    "name": "San Francisco"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/11395e5e-e0f2-a638-f249-1528d342e3f0",
+                    "name": "Wachovia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9bf05660-27e2-7843-9f91-0202d00fab14",
+                    "name": "South Philadelphia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a94611ac-6715-15a7-5728-78c0108b19f6",
+                    "name": "Comcast Spectacor"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "FOX 29",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.q98UJ04YYeK-JFqSS76j6g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T11:11:00.0000000Z"
+        },
+        {
+            "name": "Judge Refuses To Dismiss Donald Trump’s Defamation Lawsuit Against ABC News",
+            "url": "https://www.msn.com/en-us/news/politics/judge-refuses-to-dismiss-donald-trumps-defamation-lawsuit-against-abc-news/ar-BB1qzc8M",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.SruWj9IvPs0fem6vA-2Svi&pid=News",
+                    "width": 681,
+                    "height": 383
+                }
+            },
+            "description": "A federal judge in Florida refused to toss out Donald Trump ‘s defamation lawsuit against ABC News over comments that anchor George Stephanopoulos made during a contentious This Week interview with Rep. Nancy Mace (R-SC).",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/137bb412-5a45-fc63-29e7-ee3aa5b6d093",
+                    "name": "ABC News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fece3f4-e8e8-4159-843e-f725a930ad50",
+                    "name": "Florida"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d730f11-2273-0608-dc7e-885c7a302da9",
+                    "name": "George Stephanopoulos"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/519f10d8-d1a6-75bd-ebd2-55109969b057",
+                    "name": "This Week"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bac8911b-c0a7-2474-0982-0e9041ed6601",
+                    "name": "Nancy Mace"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/07625370-5b16-36ad-037a-29ff548c8b03",
+                    "name": "E. Jean Carroll"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Donald Trump"
+                },
+                {
+                    "name": "Lawsuit"
+                },
+                {
+                    "name": "Salon des Refusés"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Deadline.com on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.AcsXDScGqcO7Z3nNxcYadw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T19:05:34.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Chelsea vs Wrexham: Kick-off time, TV, live stream, team news, prediction, h2h results, odds tonight",
+            "url": "https://www.msn.com/en-gb/sport/other/chelsea-vs-wrexham-team-news-kick-off-time-tv-live-stream-prediction-h2h-results/ar-BB1qsHQE",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.uQaFuVN8dZD8WwGLkdZ8lC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Kick-off time, TV, live stream, team news, prediction, h2h results, odds tonight - Enzo Maresca takes charge of Blues for first time in USA",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8346cd56-1a96-adb0-26e1-f3679d88e0ba",
+                    "name": "Chelsea F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d8cfdd22-42f1-4de7-5f92-2e2ce29253ae",
+                    "name": "Blues"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/57f409e7-f3be-4c3f-89a8-adb2b541771b",
+                    "name": "Enzo Maresca"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/88484619-de2d-f13f-fe17-749aff924e36",
+                    "name": "EFL League One"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/798e72ae-7e6b-eaba-0080-5e2b222ddfb7",
+                    "name": "Bournemouth"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/425b75ce-53a4-3a64-7a82-ba1c9ba54f25",
+                    "name": "Levi's Stadium"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2051a4c8-bbb9-4d59-bb96-22e807ed5cc5",
+                    "name": "Santa Clara, California"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Time"
+                },
+                {
+                    "name": "Kick-off"
+                },
+                {
+                    "name": "t.o.night"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Evening Standard on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6dX1YSu3BLe3mNX-gZCcdA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T18:54:25.0000000Z",
+            "video": {
+                "name": "Enzo Fernandez Site",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/6ab68311-a67d-4305-92a5-431392cb034c/718a7ae0-1cc6-4e80-8866-a9ecd006_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "Sports"
+        },
+        {
+            "name": "Google's Pixel 9 displays are blindingly bright, according to the latest leak",
+            "url": "https://www.msn.com/en-us/news/technology/googles-pixel-9-displays-are-blindingly-bright-according-to-the-latest-leak/ar-BB1qC6HA",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.GL0LJ62LVOv2OHyYERkVNS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "The Pixel 9 series will utilize OLED panels supplied by Samsung Display. Google will make use of Samsung's latest M14 panels, offering HDR brightness up to 2,050 nits.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e0c8ac07-1c64-5d99-2591-fbd2feaf7fec",
+                    "name": "OLED"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/de9961ec-2755-97e1-53fd-7393126a5d9b",
+                    "name": "HDR, Inc."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Android Police on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.qlrwCnTqy8bK1JXGxExFoA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T08:23:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Saints' Alvin Kamara Talks Not Holding Out for New Contract: 'I Ain't Stupid'",
+            "url": "https://bleacherreport.com/articles/10129465-saints-alvin-kamara-talks-not-holding-out-for-new-contract-i-aint-stupid",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.2e-pt1ks-0FRxMmXs-EbOS&pid=News",
+                    "width": 700,
+                    "height": 368
+                }
+            },
+            "description": "Alvin Kamara left New Orleans Saints minicamp in June after he and the team didn't make progress toward a new contract. He isn't taking the same approach",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/49582261-8fa9-5a7a-ba79-9344a4742ce5",
+                    "name": "Alvin Kamara"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6e1c9bcb-a6dd-05c8-54e9-86361e106868",
+                    "name": "New Orleans Saints"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Bleacher Report",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ZAKaF1Q49N9wT6vo36A16A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T00:08:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Pinellas, Hillsborough school districts see improvement in latest school ratings",
+            "url": "https://www.msn.com/en-us/news/us/pinellas-hillsborough-school-districts-see-improvement-in-latest-school-ratings/ar-BB1qC4Sz",
+            "description": "School grades are out for the 2023-2024 school year, and it was good news for both Pinellas and Hillsborough counties, as Pinellas earned its first district-wide A grade.",
+            "mentions": [
+                {
+                    "name": "Pinellas County"
+                },
+                {
+                    "name": "Hillsborough"
+                },
+                {
+                    "name": "School district"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WFLA News Channel 8 on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.SEGWCiNzAtmXhkrzfPu5Lw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T11:48:14.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "A new fossil shows an animal unlike any we've seen before. And it looks like a taco.",
+            "url": "https://www.msn.com/en-us/news/technology/a-new-fossil-shows-an-animal-unlike-any-we-ve-seen-before-and-it-looks-like-a-taco/ar-BB1qyRY0",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.N-R9lA5jLOfvsfY2_W7KhS&pid=News",
+                    "width": 700,
+                    "height": 427
+                }
+            },
+            "description": "A common ancestor to some of the most widespread animals on Earth has managed to surprise scientists, because its taco shape and multi-jointed legs are something no paleontologist has ever seen before in the fossil record,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b22e3bd5-76f4-3197-66e9-450ebae851e0",
+                    "name": "Taco"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/834c508c-4bd2-496d-be1d-2a48d03d1dc0",
+                    "name": "Shrimp"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/58dff7d4-0cc5-3604-ff1a-654d34648715",
+                    "name": "Centipede"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9e3ea4c1-fcec-a1b5-3b51-3eb370e30361",
+                    "name": "Crab"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Animal"
+                },
+                {
+                    "name": "London"
+                },
+                {
+                    "name": "Barcelona"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA TODAY on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.m1iod5ODNIyyKu23kGIllQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T17:49:54.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Violent crime rates in American cities largely fall back to pre-pandemic levels, new report shows",
+            "url": "https://www.msn.com/en-us/news/crime/violent-crime-rates-in-american-cities-largely-fall-back-to-pre-pandemic-levels-new-report-shows/ar-BB1qBdQJ",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.iE0vqbxNJ052MFWM61gMti&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "Most violent crimes in U.S. cities are back down to pre-pandemic levels, according to the 2024 mid-year crime trend report by the Council on Criminal Justice released Thursday. While federal crime data is difficult to track, the CCJ examines monthly crime ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/326a492e-66ba-9f33-8016-efca59c1b3a4",
+                    "name": "Shoplifting"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Violent crime"
+                },
+                {
+                    "name": "United States"
+                },
+                {
+                    "name": "Crime statistics"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA Today on MSN.com"
+                }
+            ],
+            "datePublished": "2024-07-25T10:14:00.0000000Z"
+        },
+        {
+            "name": "'Disgusting': Global 1% Captured $42 Trillion in New Wealth Over Past Decade",
+            "url": "https://www.commondreams.org/news/top-1-percent-wealth",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.GxWL7a9m-kAKOByNDpq-6i&pid=News",
+                    "width": 700,
+                    "height": 350
+                }
+            },
+            "description": "The richest sliver of the global population hauled in more than $40 trillion in new wealth over the past decade, according to a new analysis.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cd9467aa-63a2-3e43-2c6c-bed16bc9aab6",
+                    "name": "Oxfam"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/559a7161-1cb9-574d-ef6d-58f0d0bef145",
+                    "name": "G20"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Common Dreams",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.27uI3Vg1Y3xsSy48VMJmng&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T11:04:00.0000000Z"
+        },
+        {
+            "name": "Alibaba-Backed AI Startup Valued at $2.8 Billion After New Round",
+            "url": "https://www.bloomberg.com/news/articles/2024-07-25/alibaba-backed-ai-startup-valued-at-2-8-billion-after-new-round",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.J9NFoZVjij673zfW3ldF9y&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Chinese AI startup Baichuan is valued at 20 billion yuan ($2.8 billion) after its latest fundraising round as Beijing seeks to boost the Asian nation’s capabilities in emerging technologies to counter US curbs. Baichuan raised 5 billion yuan in the most ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b3d6263a-2d95-f16f-9f35-ccbf36c60824",
+                    "name": "Alibaba Group"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c5ad466d-fd68-f389-4727-7f3b9daaebf6",
+                    "name": "Bloomberg L.P."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e43bc499-902a-5deb-aced-aa4a247e6822",
+                    "name": "Beijing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/29ece984-463e-6074-60e1-83f8c012ef70",
+                    "name": "Shanghai"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/99ca925e-be5c-6e51-d068-a29f016da3e5",
+                    "name": "Shenzhen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0c3384de-d19c-57c0-8e75-f68a566a0247",
+                    "name": "Tencent"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cd954b68-481c-b388-8b3d-6c0081dc9adf",
+                    "name": "Xi Jinping"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2ce9922-a60d-f7b7-6ed0-ddc54d477ad2",
+                    "name": "Semiconductor"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Bloomberg L.P."
+                }
+            ],
+            "datePublished": "2024-07-25T07:22:00.0000000Z"
+        },
+        {
+            "name": "How to Watch All the Deadpool and Wolverine Movies Before Seeing Marvel's New Sequel",
+            "url": "https://www.msn.com/en-us/movies/news/how-to-watch-all-the-deadpool-and-wolverine-movies-before-seeing-marvels-new-sequel/ar-BB1qCsql",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Qp5mD8GagA2W_X-gYqzHxC&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "PEOPLE breaks down the movies to see (and where to stream them) ahead of the July 26 release of 'Deadpool & Wolverine'",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/01a19cfe-008e-543d-4bfa-d84505d4ff76",
+                    "name": "Hugh Jackman"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/87632130-c974-280a-2dc6-178ef3b7916f",
+                    "name": "X-Men"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0f9e50fe-48fa-e040-0c90-775edca2beaa",
+                    "name": "Ryan Reynolds"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ddf8af51-84f3-2ab6-34fc-bf8306047411",
+                    "name": "X-Men Origins: Wolverine"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "People on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.kridaNmIIz5AdgcUGG5eBQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T14:15:58.0000000Z"
+        },
+        {
+            "name": "Homes for Sale in New York and Connecticut",
+            "url": "https://www.nytimes.com/2024/07/25/realestate/housing-market-near-nyc.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.CjWAYLGrehuNmZFz6it-Ii&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "As the Supreme Court weighs whether cities can criminalize sleeping outdoors or in tents, Los Angeles is attempting to combat homelessness with tiny homes criticized by some as “inhumane.”",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caeb7b9a-f5d7-4686-8fb5-cf7628296b13",
+                    "name": "New York"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The New York Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.GzcmUDr41J6Qc1JEQyNTCA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-25T09:01:00.0000000Z",
+            "category": "LifeStyle"
+        },
+        {
+            "name": "New PS5 beta update makes roommate-friendly changes to Remote Play, audio",
+            "url": "https://www.msn.com/en-us/news/other/new-ps5-beta-update-makes-roommate-friendly-changes-to-remote-play-audio/ar-BB1qzw1h",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.SbtjwnosLuX6mGw4WqnNpi&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "If you’re a PlayStation 5 owner who participates in the console’s beta program for testing new features before the rest of the public gets them, you’ll receive access to an update on Thursday that includes some new features for PS5 Remote Play and 3D audio. Both features seem designed for households where multiple people are sharing just one PS5.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/50aca4dd-2783-4d7e-93e3-78b4262bd543",
+                    "name": "PlayStation 5"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/66dea280-285c-b72b-aa45-ba7610655a9e",
+                    "name": "3D audio effect"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2b485a35-f5af-47ad-5cee-6c53599255fe",
+                    "name": "PlayStation"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Beta"
+                },
+                {
+                    "name": "Polygon"
+                },
+                {
+                    "name": "Remote Play"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Polygon on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.M6WIT0x-cbADeRQ6CQUTyw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T21:27:05.0000000Z",
+            "video": {
+                "name": "New PS5 beta update makes roommate-friendly changes to Remote Play, audio",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.E5D%2Fo%2FnBMHEe1a%2FQb0nbWQ&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 272
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "New Gold reports fatality at Rainy River mine in Canada",
+            "url": "https://www.reuters.com/world/americas/new-gold-reports-fatality-rainy-river-mine-canada-2024-07-24/",
+            "description": "Canadian miner New Gold said on Wednesday an employee at the Rainy River mine had died while operating a piece of equipment in an open pit.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f417f89-9a37-e0d0-912e-99dccfb8982d",
+                    "name": "Reuters"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jFXbg3L7Ce_1pS4_IOR8CA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T15:00:00.0000000Z"
+        },
+        {
+            "name": "George Conway’s Anti-Psychopath PAC highlights Trump gaffes in new campaign",
+            "url": "https://thehill.com/homenews/campaign/4792145-george-conway-pac-donald-trump-gaffes-campaign-ad/",
+            "description": "Conservative pundit George Conway’s political action committee released a new campaign ad targeting former President Trump over his speaking gaffes. The Anti-Psychopath PAC’s newest campaign is a new TV ad featuring Conway saying, “Donald Trump has ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hill"
+                }
+            ],
+            "datePublished": "2024-07-25T14:19:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Funding secured for new Mutual Improvement Classroom (MIC)",
+            "url": "https://www.nymr.co.uk/news/funding-secured-for-new-mutual-improvement-classroom-mic",
+            "description": "The NYMR has secured vital funding from North Yorkshire Council’s UK Shared Prosperity Fund, enabling us to build a new Mutual Improvement Classroom (MIC) at Grosmont Motive Power Depot, which will be used to train the railway’s next generation of ...",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "nymr.co.uk"
+                }
+            ],
+            "datePublished": "2024-07-25T12:15:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Enzo Maresca reveals Christopher Nkunku plan for as he lays out style of play for new season",
+            "url": "https://talksport.com/football/1979171/enzo-maresca-christopher-nkunku-style-of-play-chelsea/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.hpAWxM3P8zVNyETrfFsCPi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Enzo Maresca revealed his plan for Christopher Nkunku ahead of the new Premier League season. Chelsea fans only got to see him play 14 times last season, not making his debut until December. The",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/57f409e7-f3be-4c3f-89a8-adb2b541771b",
+                    "name": "Enzo Maresca"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e603b3e1-6ed9-034c-8070-a4e549c04080",
+                    "name": "Christopher Nkunku"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/02bde011-1e9d-3aff-8309-7d07d4031798",
+                    "name": "Premier League"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8346cd56-1a96-adb0-26e1-f3679d88e0ba",
+                    "name": "Chelsea F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9af69e30-7b64-3e01-5c0e-d8a227eeac11",
+                    "name": "RB Leipzig"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8134846a-cc3a-64cc-bdab-43f5906034ef",
+                    "name": "Bundesliga"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Talksport",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.1J7u2N62JGb2VrnCRlJIrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T20:15:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Stock Market News: Nasdaq Slides After Tesla, Alphabet Earnings",
+            "url": "https://www.barrons.com/livecoverage/stock-market-today-072424",
+            "description": "The Dow, S&P 500, and Nasdaq are falling Wednesday as the stock market digests earnings from Tesla and Alphabet.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c9835bf-9ac0-912c-cf4c-6d31e822fd9b",
+                    "name": "Nasdaq, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/732e1de9-8d5c-15ed-7f0d-7e2169dc9859",
+                    "name": "Tesla, Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3b0d4963-9497-de80-67bb-cfd204e1c62d",
+                    "name": "Alphabet"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8c59a0ba-0021-cfdd-b696-d3192600ac6c",
+                    "name": "Wall Street"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8d504280-8e5f-99e5-4688-5e3b38e4c30d",
+                    "name": "Federal Reserve"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c3ea5c5-8119-f4b3-5019-aeed4f2f1843",
+                    "name": "Nasdaq Composite"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Barron's",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.BNX5L8Z_CjgHVLbVH0I2NQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-07-24T17:09:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Come on Emma! DMU will be cheering on New Zealand alumna at Paris 2024 as she defends her rowing Olympic Gold",
+            "url": "https://www.dmu.ac.uk/about-dmu/news/2024/july/come-on-emma-dmu-will-be-cheering-on-new-zealand-alumna-at-paris-2024-as-she-defends-her-rowing-olympic-gold.aspx",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8ehcuYFE7XmYGBgBidQxjC&pid=News",
+                    "width": 600,
+                    "height": 472
+                }
+            },
+            "description": "Emma returned to the sport and represented New Zealand in the 2016 Olympics, again narrowly missing out on a medal position. After another break Emma started training for the 2021 Tokyo Olympics where her golden moment finally arrived - finishing first in ...",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6517d967-9362-4c0d-83d2-cf369fa5fcda",
+                    "name": "New Zealand"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c63930ad-6a1c-718c-5f64-ab349cc910d1",
+                    "name": "Emma Twigg"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1ade4f34-98b2-f4f0-49cd-8e8fa0d4b964",
+                    "name": "2012 Summer Olympics"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cb44a92f-6c6f-99c4-2ae3-51601fdc919a",
+                    "name": "Tokyo"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "dmu.ac.uk"
+                }
+            ],
+            "datePublished": "2024-07-25T09:27:00.0000000Z",
+            "category": "Sports"
+        }
+    ]
+}
